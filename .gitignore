@@ -1,0 +1,9 @@
+.idea
+target
+*.iml
+.classpath
+.project
+MANIFEST.MF
+**/target/**
+**/.settings/**
+**/bin/**
